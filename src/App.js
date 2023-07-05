@@ -1,6 +1,5 @@
 import { Switch, Route } from "react-router-dom";
 import { ToastContainer } from "react-toastify";
-// require('dotenv').config();
 
 import Home from "./components/Home";
 import Register from "./components/Register";
